@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dm_pony_moon/lunar_dirt"
+	"$bumpmap" "dm_pony_moon/lunar_dirt_ssbump"
+	"%tooltexture" "dm_pony_moon/lunar_dirt"
+	"$surfaceprop" "Dirt"
+	"%keywords" "pony, moon"
+}

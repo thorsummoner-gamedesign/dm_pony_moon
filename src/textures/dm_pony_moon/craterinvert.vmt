@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "dm_pony_moon/circle-23"
+	"$bumpmap" "dm_pony_moon/spherebump-fullinvert"
+	"%tooltexture" "dm_pony_moon/spherebump"
+	"%keywords" "pony crater"
+	"$translucent" 1
+}

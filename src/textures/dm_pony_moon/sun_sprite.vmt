@@ -1,0 +1,9 @@
+"Sprite"
+{
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "dm_pony_moon/sun"
+	"%tooltexture" "dm_pony_moon/sun"
+	"%keywords" "pony sun sprite"
+	"$translucent" 1
+}
